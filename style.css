@@ -230,6 +230,12 @@ header {
     margin-top: 60px;
 }
 
+@media (max-width: 768px) {
+   .work-top {
+       margin-top: 0;
+ }
+} 
+
 .site-link {
     transition: opacity 0.15s;
 }
