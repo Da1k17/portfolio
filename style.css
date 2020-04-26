@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background: #151515 url('../images/bg.png');
+    background: #151515 url('bg.png');
     background-size: cover;
     background-attachment: fixed;
     color: #fff;
