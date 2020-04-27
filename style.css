@@ -243,11 +243,10 @@ header {
         margin-bottom: 60px;
     }
     
-    .work-item {
-        margin-bottom: 30px;
-    }
-    
-    
+    .work-text {
+    margin: 20px 50px;
+    } 
+      
 } 
 
 .site-link {
