@@ -234,6 +234,11 @@ header {
    .work-top {
        margin-top: 0;
     }
+    
+    .service-img1 {
+        margin-top: 60px;
+    }
+    
     .service-img3 {
         margin-bottom: 60px;
     }
@@ -251,7 +256,12 @@ header {
     opacity: 0.8;
 }
 
-.service-img {
+.service-img1 {
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.service-img2 {
     width: 100%;
     margin-bottom: 60px;
 }
