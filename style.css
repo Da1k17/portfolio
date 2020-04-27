@@ -387,5 +387,9 @@ footer ul li a:hover {
    .contact {
        padding-bottom: 80px;
    }
+    
+    .body {
+        background-color: black;
+    }
 } 
 
